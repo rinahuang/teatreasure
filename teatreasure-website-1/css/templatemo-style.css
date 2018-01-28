@@ -984,6 +984,14 @@ http://www.templatemo.com/tm-509-hydro
       margin-top: 20px;
       margin-bottom: 30px;
     }
+	
+	a.blog-pic-hyper {
+		width: inherit;
+	}
+	
+	.media.blog-thumb .media-left img.blog-pic-image {
+		width: inherit;
+	}
   }
 
   @media only screen and (min-width: 640px) and (max-width: 767px) {
@@ -1000,6 +1008,14 @@ http://www.templatemo.com/tm-509-hydro
       position: relative;
       bottom: 10em;
     }
+	
+	a.blog-pic-hyper {
+		width: inherit;
+	}
+	
+	.media.blog-thumb .media-left img.blog-pic-image {
+		width: inherit;
+	}
   }
 
   @media screen and (max-width: 767px) {
@@ -1067,6 +1083,14 @@ http://www.templatemo.com/tm-509-hydro
     .footer-bottom .phone-contact {
       margin-right: 0;
     }
+	
+	a.blog-pic-hyper {
+		width: inherit;
+	}
+	
+	.media.blog-thumb .media-left img.blog-pic-image {
+		width: inherit;
+	}
   }
 
   @media screen and (max-width: 639px) {
@@ -1079,9 +1103,17 @@ http://www.templatemo.com/tm-509-hydro
       height: 320px;
     }
 
+	
     .media.blog-thumb .media-left img {
       position: relative;
       bottom: 6em;
     }
     
+	a.blog-pic-hyper {
+		width: inherit;
+	}
+	
+	.media.blog-thumb .media-left img.blog-pic-image {
+		width: inherit;
+	}
   }
